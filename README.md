@@ -11,12 +11,18 @@ Below you'll find information about performing common tasks. The most recent ver
 
 ## Table of Contents
 
+* [The directory where the APK resides in](#the-directory-where-the-apk-resides-in)
 * [Updating to New Releases](#updating-to-new-releases)
 * [Available Scripts](#available-scripts)
   * [npm start](#npm-start)
   * [npm test](#npm-test)
   * [npm run ios](#npm-run-ios)
   * [npm run android](#npm-run-android)
+
+## The directory where the APK resides in
+
+The 'app-release.apk' can be found in the following directory:
+[/android/app/release/](https://github.com/MinhazI/MotionMiraclesTask/tree/master/android/app/release)
 
 ## Updating to New Releases
 
